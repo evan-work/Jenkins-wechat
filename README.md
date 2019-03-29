@@ -1,3 +1,5 @@
+本文只是方便之后使用，请使用作者源git：https://github.com/AIKiller/jenkins-weixin-qiye-alert
+===================== 
 Jenkins Weixin Message Publisher Plugin
 ===================== 
 
